@@ -1,5 +1,5 @@
 # 💫 About Me:
-web-based projects<br>I'm actively learning JavaScript, Python, Java, and diving deeper into Data Structures and Algorithms to level up my coding skills.<br>
+I'm a self-taught programmer currently building practical web applications like a student marketplace and an e-waste management system. I'm focused on learning JavaScript, Python, Java, and improving my Data Structures and Algorithms skills through real-world coding projects.<br/>
 
 
 ## 🌐 Socials:
