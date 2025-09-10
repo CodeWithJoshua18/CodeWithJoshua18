@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a self-taught programmer currently building practical web applications, a productivity website and online shoe store,as examples. I'm focused on learning JavaScript, Python, and Java.<br/>
+I'm a self-taught programmer currently building practical web applications, a productivity website and online shoe store,as examples. I'm focused on learning JavaScript (React), Python, and Java.<br/>
 
 
 ## 🌐 Socials:
