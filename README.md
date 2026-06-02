@@ -1,13 +1,13 @@
-<!-- 🎬 HEADER -->
+<!-- 🎬 PREMIUM HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Caleb%20%7C%20Software%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Caleb%20%7C%20Software%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <!-- ⌨️ TYPING INTRO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=JavaScript+%7C+React+Developer;Python+%7C+Django+Explorer;Building+Real+World+Web+Apps;Turning+Ideas+Into+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Building+Real+World+Web+Applications;JavaScript+%7C+React+%7C+Python+%7C+Java;Turning+Ideas+Into+Scalable+Products" />
 </p>
 
 ---
@@ -16,12 +16,14 @@
 
 I'm a software developer focused on building **practical, real-world web applications** that solve meaningful problems.
 
-I enjoy learning by building and continuously improving through hands-on projects.
+I enjoy learning by building and continuously improving through hands-on development.
 
-### 🚧 Currently Building:
+---
 
-* 📈 Productivity platform (task + goal management system)
-  
+## 🚧 Currently Building
+
+* 📈 Productivity platform for task and goal management
+* 👟 Online shoe store with full e-commerce functionality
 
 ---
 
@@ -50,11 +52,11 @@ I enjoy learning by building and continuously improving through hands-on project
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithJoshua18&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithJoshua18&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithJoshua18&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithJoshua18&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
@@ -104,12 +106,14 @@ Task and goal management system focused on improving daily efficiency.
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:generaljosh5311@gmail.com">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
+
+<!-- 🎬 FOOTER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
