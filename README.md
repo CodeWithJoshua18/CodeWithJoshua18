@@ -1,13 +1,13 @@
-<!-- 🎬 PREMIUM HEADER -->
+<!-- Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Caleb%20%7C%20Software%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://img.shields.io/badge/CALeb%20%7C%20SOFTWARE%20DEVELOPER-0f2027?style=for-the-badge&logo=github&logoColor=white&labelColor=0f2027&color=2c5364" />
 </p>
 
 <!-- ⌨️ TYPING INTRO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Building+Real+World+Web+Applications;JavaScript+%7C+React+%7C+Python+%7C+Java;Turning+Ideas+Into+Scalable+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&pause=700&center=true&vCenter=true&width=750&lines=JavaScript+%7C+React+Developer;Python+%7C+Django+Explorer;Building+Real+World+Web+Apps;Turning+Ideas+Into+Working+Products" />
 </p>
 
 ---
@@ -23,7 +23,6 @@ I enjoy learning by building and continuously improving through hands-on develop
 ## 🚧 Currently Building
 
 * 📈 Productivity platform for task and goal management
-* 👟 Online shoe store with full e-commerce functionality
 
 ---
 
@@ -52,11 +51,11 @@ I enjoy learning by building and continuously improving through hands-on develop
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithJoshua18&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithJoshua18&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithJoshua18&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithJoshua18&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -68,7 +67,7 @@ I enjoy learning by building and continuously improving through hands-on develop
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeWithJoshua18&theme=algolia&margin-w=10&margin-h=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeWithJoshua18&theme=algolia&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -113,8 +112,8 @@ Task and goal management system focused on improving daily efficiency.
 
 ---
 
-<!-- 🎬 FOOTER -->
+<!-- 🔻 FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-0f2027?style=for-the-badge&color=2c5364" />
 </p>
