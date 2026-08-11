@@ -62,11 +62,7 @@ Improve
 
 ---
 
-## 🛠️ Technologies I Work With
-
-I use different technologies depending on the problem I'm solving.
-
-Rather than listing every technology I've touched, the languages below are automatically ranked based on the code in my GitHub repositories.
+## 💻 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithJoshua18&layout=compact&theme=tokyonight&langs_count=8" />
