@@ -14,13 +14,15 @@
 
 ## 👋 About Me
 
-I'm a software developer who enjoys **solving problems with technology**.
+I'm a software developer focused on **solving problems with technology**.
 
-Rather than limiting myself to a specific language or framework, I focus on understanding a problem, breaking it down, and building practical solutions that work.
+Rather than defining myself by a particular programming language or framework, I focus on understanding problems, breaking them down, and building practical solutions.
 
 I learn primarily by **building real projects, reading other people's code, experimenting with different approaches, and continuously improving what I create.**
 
-My goal is to become someone who can take a problem from **idea → design → implementation → working product**.
+My goal is to become someone who can take a problem from:
+
+**Idea → Design → Implementation → Working Product**
 
 ---
 
@@ -28,19 +30,19 @@ My goal is to become someone who can take a problem from **idea → design → i
 
 ### 📈 Focus Forge
 
-A productivity and task-management platform designed to help people turn goals into structured, actionable work.
+A productivity platform designed to help people turn goals into structured, actionable work.
 
-I'm using the project to explore software architecture, system design, application development, and the process of turning an idea into a real product.
+I'm using the project to explore **software architecture, system design, application development, and product thinking** while learning how to take an idea and turn it into a real product.
 
 ---
 
-## 🧠 How I Think About Technology
+## 🧠 How I Approach Technology
 
 I don't want to be defined by one programming language.
 
-**The problem comes first. The technology comes second.**
+> **The problem comes first. The technology comes second.**
 
-My approach is:
+My approach:
 
 ```text
 Understand the problem
@@ -60,26 +62,14 @@ Improve
 
 ---
 
-## ⚒️ Technologies I've Used
+## 🛠️ Technologies I Work With
 
-These are the languages and technologies I've worked with most frequently:
+I use different technologies depending on the problem I'm solving.
 
-### 💻 Languages
+Rather than listing every technology I've touched, the languages below are automatically ranked based on the code in my GitHub repositories.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,python,java,php,html,css" />
-</p>
-
-### ⚛️ Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,django,bootstrap" />
-</p>
-
-### 🗄️ Databases & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,vercel" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithJoshua18&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 ---
@@ -92,10 +82,6 @@ These are the languages and technologies I've worked with most frequently:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithJoshua18&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithJoshua18&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -121,10 +107,11 @@ These are the languages and technologies I've worked with most frequently:
 * 🧩 Learning to approach software as a **problem-solving discipline**
 * 🏗️ Building real-world applications from the ground up
 * 🧠 Improving software architecture and system design
-* 💻 Strengthening my programming fundamentals
+* 💻 Strengthening programming fundamentals
 * 🔍 Learning by reading and understanding existing codebases
 * 🛠️ Turning ideas into functional products
-* 📚 Continuously expanding the tools I can use to solve different problems
+* 📚 Expanding the tools I can use to solve different problems
+* 🚀 Learning how to take projects from **idea to usable product**
 
 ---
 
